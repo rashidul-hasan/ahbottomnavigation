@@ -25,7 +25,7 @@
     <dimen name="bottom_navigation_small_inactive_min_width">64dp</dimen>
     <dimen name="bottom_navigation_small_inactive_max_width">96dp</dimen>
 
-    <dimen name="bottom_navigation_small_margin_top_active">6dp</dimen>
+    <dimen name="bottom_navigation_small_margin_top_active">16dp</dimen>
     <dimen name="bottom_navigation_small_margin_top">16dp</dimen>
     <dimen name="bottom_navigation_small_margin_bottom">16dp</dimen>
 
