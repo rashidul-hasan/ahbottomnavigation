@@ -4,7 +4,7 @@
 
     <dimen name="bottom_navigation_min_width">104dp</dimen>
     <dimen name="bottom_navigation_max_width">168dp</dimen>
-    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="bottom_navigation_height">70dp</dimen>
     <dimen name="bottom_navigation_icon">24dp</dimen>
 
     <dimen name="bottom_navigation_margin_top_active">8dp</dimen>
@@ -20,8 +20,8 @@
     <dimen name="bottom_navigation_text_size_forced_inactive">10sp</dimen>
 
     <!-- Small -->
-    <dimen name="bottom_navigation_small_active_min_width">96dp</dimen>
-    <dimen name="bottom_navigation_small_active_max_width">168dp</dimen>
+    <dimen name="bottom_navigation_small_active_min_width">64dp</dimen>
+    <dimen name="bottom_navigation_small_active_max_width">96dp</dimen>
     <dimen name="bottom_navigation_small_inactive_min_width">64dp</dimen>
     <dimen name="bottom_navigation_small_inactive_max_width">96dp</dimen>
 
